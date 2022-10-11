@@ -1,0 +1,13 @@
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp3.1\YoutubeEgitim.exe
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp3.1\YoutubeEgitim.deps.json
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp3.1\YoutubeEgitim.runtimeconfig.json
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp3.1\YoutubeEgitim.runtimeconfig.dev.json
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp3.1\YoutubeEgitim.dll
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\netcoreapp3.1\YoutubeEgitim.pdb
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp3.1\YoutubeEgitim.csprojAssemblyReference.cache
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp3.1\YoutubeEgitim.AssemblyInfoInputs.cache
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp3.1\YoutubeEgitim.AssemblyInfo.cs
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp3.1\YoutubeEgitim.csproj.CoreCompileInputs.cache
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp3.1\YoutubeEgitim.dll
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp3.1\YoutubeEgitim.pdb
+C:\Users\cemal\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\netcoreapp3.1\YoutubeEgitim.genruntimeconfig.cache
